@@ -4,10 +4,10 @@ A list of tools & resources for designers.
 
 ----
 
-*最近半年初入设计圈，收集了不少 bookmark 想在年底来一个总结。
+最近半年初入设计圈，收集了不少 bookmark 想在年底来一个总结。
 于是创建了这个 Resource List 项目，旨在让更多的设计师找资源变得有章可循。
 先更新一部分，大概还有200多个还没放过来。。（吐血）
-所以，欢迎大家也推荐自己收藏的资源，加入这个项目并一起持续更新么么哒：）*
+所以，欢迎大家也推荐自己收藏的资源，加入这个项目并一起持续更新么么哒：）
 
 
 # Basic Material
@@ -18,8 +18,6 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 + [Unsplash](https://unsplash.com/) Beautiful high resolution images (and free to use!) 
 
 + [randomuser.me](https://randomuser.me/photos) To get fake user profile images.
-
-+ [Pixabay](www.pixabay.com) 有些赞助商的图片会在网站上显示，以获取对Pixabay运营的资金支持，这些图片会带有Shutterstock的水印。
 
 + [depositphotos](http://depositphotos.com/)
   
